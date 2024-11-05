@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elite407
+- 👋 Hi, I’m @LogicsLord
 - 👀 I’m interested in Physics, Maths, Programming, 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Robotics
