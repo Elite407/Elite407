@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LogicsLord
 - 👀 I’m interested in Physics, Maths, Programming, 
 - 🌱 I’m currently learning DSA
-- 🌱 I’m currently learning Cp, dev.
+- 🌱 I’m currently learning Development. 
 - 💞️ I’m looking to collaborate on Robotics or Computational Science
 - - 📫 How to reach me pranamyasanghvi.028@gmail.com
 - 😄 Pronouns: He
