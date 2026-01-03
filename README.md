@@ -34,8 +34,10 @@
 
 ### 🛠️ Languages & Tools
 
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,numpy,pandas,matplotlib,linux,git,latex,matlab" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,numpy,pandas,matplotlib,pytorch,sklearn,linux,git,latex,matlab,mysql" />
 </p>
 
 ---
