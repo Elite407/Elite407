@@ -20,18 +20,22 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🏆 Honors & Certifications
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,pytorch,sklearn,linux,git,latex,matlab,mysql" />
-</p>
+- **Indian National Astronomy Olympiad (INAO)**
+  - *Homi Bhabha Centre for Science Education (HBCSE)*
+  - Qualified for the second stage of the Astronomy Olympiad, a globally recognized achievement in astrophysics and science.
+
+- **National Standard Examination in Physics (NSEP) 2023**
+  - Secured **National Top 1%** (Top 1% of candidates across India).
+  - Demonstrates strong proficiency in fundamental physics and problem-solving.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elite407&show_icons=true&theme=tokyonight" alt="Pranamya's Stats" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,numpy,pandas,matplotlib,linux,git,latex,matlab" />
 </p>
 
 ---
@@ -42,7 +46,7 @@
   <a href="mailto:pranamyasanghvi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/pranamya-sanghvi/">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
