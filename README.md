@@ -1,11 +1,48 @@
-- 👋 Hi, I’m Pranamya Sanghvi, an Undergrad student at Dhirubhai Ambani University(formerly DA-IICT) 
-- 👀 I’m interested in Physics, Maths, Programming and Machine Learning.
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Computational Science
-- - 📫 How to reach me pranamyasanghvi@gmail.com
+<h1 align="center">Hi there, I'm Pranamya Sanghvi! 👋</h1>
+<h3 align="center">Computational Science & ML Enthusiast</h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2094F3&width=435&lines=Undergrad+at+DA-IICT+(DAU);Machine+Learning+Enthusiast;Physics+%26+Maths+Lover;Building+Computational+Models" alt="Typing SVG" />
+  </a>
+</p>
 
-<!---
-Elite407/Elite407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Undergraduate Student at **Dhirubhai Ambani University (formerly DA-IICT)**
+- 🔭 I’m currently working on **Computational Science & Machine Learning**
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**
+- 🧠 I have a keen interest in **Physics, Mathematics, and Systems Programming**
+- 🤝 I’m looking to collaborate on projects involving **Numerical Analysis & CP**
+- 📫 How to reach me: **pranamyasanghvi@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,pytorch,sklearn,linux,git,latex,matlab,mysql" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elite407&show_icons=true&theme=tokyonight" alt="Pranamya's Stats" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:pranamyasanghvi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/pranamya-sanghvi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
