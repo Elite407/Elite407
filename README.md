@@ -13,7 +13,7 @@
 <a href="https://leetcode.com/u/LogicsLord/"><img src="https://img.shields.io/badge/LeetCode-LogicsLord-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://codolio.com/profile/LogicsLord"><img src="https://img.shields.io/badge/Codolio-LogicsLord-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=white&labelColor=0d1117"/></a>
 
-
+ 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e3a5f,100:2094F3&height=3" width="100%"/>
