@@ -22,27 +22,32 @@
 
 ## 🧑‍💻 About Me
 
-```json
-{
-  "name": "Pranamya Sanghvi",
-  "role": ["Computational Scientist", "ML Enthusiast"],
-  "education": "B.Tech ICT-CS @ DA-IICT (DAU) · 3rd year",
+```python
+class Pranamya:
+    def __init__(self):
+        self.name = "Pranamya Sanghvi"
+        self.role = ["Computational Scientist", "ML Enthusiast"]
+        self.education = "B.Tech ICT-CS @ DA-IICT (DAU) · 3rd year"
 
-  "passion": {
-    "domains": ["Machine Learning", "Computational Science"],
-    "interests": ["Physics", "Mathematics", "Systems Programming"],
-    "competitiveProgramming": "LogicsLord on Codeforces & LeetCode"
-  },
+    def get_passion(self):
+        return {
+            "domains": ["Machine Learning", "Computational Science"],
+            "interests": ["Physics", "Mathematics", "Systems Programming"],
+            "competitive_programming": "LogicsLord on Codeforces & LeetCode"
+        }
 
-  "focus": {
-    "building": "ML models & data pipelines",
-    "stack": ["Python", "scikit-learn", "NumPy", "Pandas"],
-    "tools": ["Jupyter", "Docker", "PostgreSQL"]
-  },
+    def get_focus(self):
+        return {
+            "building": "ML models & data pipelines",
+            "stack": ["Python", "scikit-learn", "NumPy", "Pandas"],
+            "tools": ["Jupyter", "Docker", "PostgreSQL"]
+        }
 
-  "learning": ["Data Structures & Algorithms", "Advanced ML"],
-  "lookingToCollaborate": ["Numerical Analysis", "Competitive Programming"]
-}
+    def get_goals(self):
+        return {
+            "learning": ["Data Structures & Algorithms", "Advanced ML"],
+            "looking_to_collaborate": ["Numerical Analysis", "Competitive Programming"]
+        }
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e3a5f,100:2094F3&height=3" width="100%"/>
