@@ -159,12 +159,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Elite407&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=C9D1D9&icon_color=58A6FF" width="48%" alt="stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Elite407&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=C9D1D9&icon_color=58A6FF" width="48%" alt="stats"/>
 <img src="https://streak-stats.demolab.com/?user=Elite407&hide_border=true&background=0D1117&stroke=30363D&ring=2094F3&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=2094F3&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" width="48%" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elite407&layout=compact&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=C9D1D9" width="48%" alt="top langs"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Elite407&layout=compact&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=C9D1D9" width="48%" alt="top langs"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elite407&hide_border=true&bg_color=0D1117&title_color=2094F3&color=C9D1D9&line=2094F3&point=58A6FF&area=true&area_color=1e3a5f" width="98%" alt="activity graph"/>
+<img src="https://activity-graph.vercel.app/graph?username=Elite407&hide_border=true&bg_color=0D1117&title_color=2094F3&color=C9D1D9&line=2094F3&point=58A6FF&area=true&area_color=1e3a5f" width="98%" alt="activity graph"/>
 
 </div>
 
