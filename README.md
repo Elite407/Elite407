@@ -133,7 +133,7 @@ class Pranamya:
 
 <a href="https://github.com/Elite407/StockVault---Portfolio-Management-system">Source</a>
 
-<p align="left">A Portfolio Management System for tracking, analyzing, and managing stock investments with real-time data and performance metrics.</p>
+<p align="left">A Portfolio Management System for tracking, analyzing, and managing stock investments and performance metrics.</p>
 
 `Portfolio Management` `SQL` `Python`
 
